@@ -1,3 +1,4 @@
+# Adding Multiple lists,tuples
 sum3=0
 def listadd(x,sum2):
     for i in x:
